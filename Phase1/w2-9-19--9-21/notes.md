@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week02]
+## [09]/[19] - [09]/[22]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [09]/[19]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. pwd
+2. mkdir
+3. cd
 
 👁️Two things I would like to know more about:
-1. 
+1. the different remove command
 2. 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I'm still struggling with pushing to github using the commands on the terminal
 
 
 ___
